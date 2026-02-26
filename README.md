@@ -1,4 +1,4 @@
-# Vinicius de Mello
+# Vinicius de Mello 👾
 
 **`Desenvolvedor em formação`**
 
@@ -16,16 +16,6 @@ Atualmente estou focado em:
   <li>Desenvolvimento de sistemas completos (front + lógica)
 
   <li>Estudos em Inteligência Artificial aplicada a jogos
-</ul>
-
-Estou desenvolvendo projetos próprios como:
-
-<ul>
-  <li>Um sistema completo de xadrez com múltiplos modos de jogo
-
-  <li>Sistema de gerenciamento para condomínios
-
-  <li>Implementações de lógica para IA em jogos
 </ul>
 
 Meu objetivo é evoluir como desenvolvedor Full Stack e aprofundar meus conhecimentos em arquitetura de software e IA.
@@ -79,23 +69,3 @@ Meu objetivo é evoluir como desenvolvedor Full Stack e aprofundar meus conhecim
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Vinimellocae&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinimellocae&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
