@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Vinicius de Mello, tenho 17 anos e sou estudante de Ciência da Computação na Uninove. Sou técnico em informática pela Etec Aprígio Gonzaga.
+Me chamo Vinicius de Mello, tenho 17 anos e sou estudante de Ciência da Computação na Uninove. Sou técnico em informática pela Etec Aprígio Gonzaga. Atualmente trabalho como estagiário na empresa Keysytems informática.
 
 Atualmente estou focado em:
 
